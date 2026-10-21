@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "message": "App is under maintenance. Please try again later.\n\nContact » @Akash",
   "latest_version": 2,
   "update_url": "",
