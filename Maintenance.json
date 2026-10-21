@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "message": "App is under maintenance. Please try again later.",
   "latest_version": 1,
   "update_url": "",
