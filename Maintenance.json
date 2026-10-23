@@ -8,5 +8,9 @@
   "update_message": "A new version is available. Please update.",
   "notice": false,
   "notice_title": "Notice",
-  "notice_message": ""
+  "notice_message": "",
+  "banner": true,
+  "banner_id": 1,
+  "banner_message": "Yahan jo chaho likho",
+  "banner_seconds": 7
 }
