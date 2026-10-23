@@ -10,7 +10,7 @@
   "notice_title": "Notice",
   "notice_message": "",
   "banner": true,
-  "banner_id": 1,
-  "banner_message": "Yahan jo chaho likho",
-  "banner_seconds": 7
+  "banner_id": 2,
+  "banner_message": "Tonight Sever Under maintenance",
+  "banner_seconds": 60
 }
