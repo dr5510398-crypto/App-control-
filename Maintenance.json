@@ -9,7 +9,7 @@
   "notice": false,
   "notice_title": "Notice",
   "notice_message": "",
-  "banner": true,
+  "banner": false,
   "banner_id": 2,
   "banner_message": "Tonight Sever Under maintenance",
   "banner_seconds": 60
