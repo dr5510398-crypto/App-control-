@@ -1,9 +1,9 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "message_title": "Under maintenance",
   "message": "App is under maintenance. Please try again later.\n\nContact » @Akash",
   "latest_version": 2,
-  "update_url": "",
+  "update_url": "https://www.mediafire.com/file/s5pa9mn4w712osb/%25F0%259D%2597%25A3%25F0%259D%2597%25A5%25F0%259D%2597%2598%25F0%259D%2597%25A0%25F0%259D%2597%259C%25F0%259D%2597%25A8%25F0%259D%2597%25A0_x_UPDATE_YT.apk/file",
   "force_update": true,
   "update_message": "A new version is available. Please update.",
   "notice": false,
